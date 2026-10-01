@@ -1,0 +1,6 @@
+{
+  "name": "Multinivel Diamante AB · Ángel Breña",
+  "description": "Plataforma multinivel profesional de AB Natural Networkers dirigida por Ángel Breña. Gestión de afiliados, oficina virtual, tienda y plan de compensación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
